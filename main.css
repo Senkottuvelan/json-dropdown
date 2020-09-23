@@ -1,0 +1,21 @@
+body{
+  font-family: 'Aclonica';font-size: 22px;
+  text-align: center;
+  margin-top: 30%;
+}
+button{
+  font-family: 'Aclonica';font-size: 22px;
+border-radius: 30px;
+padding: 10px;
+background-color: #5158BB;
+color: white;
+}
+select,option{
+text-align: center;
+font-family: 'Aclonica';font-size: 22px;
+position: relative;
+padding:5px;
+margin: 10px;
+width: 40%;
+border-radius: 20px;
+}
